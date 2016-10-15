@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+.main_2{
+	width:1014px;
+	height: 380px;
+}
+.main_2 .left{
+	width: 258px;
+	float: left;
+	background-color: #ffffff;
+	border: #e7e7e7 solid 1px;
+}
+.Ltop{
+	height: 35px;
+	border: #e7e7e7 solid 1px; 
+	padding-left: 8px;
+	padding-top: 8px;
+	color: #6c665a;
+	font-size: 16px;
+}
+.company ul{
+	margin-left: -30px;
+	list-style: none;
+}
+.company ul li{
+	line-height:180%;
+}
+.company ul li a{
+	text-decoration: none;
+	font-size: 14px;
+}
+.main_2 .right{
+	width: 748px;
+	float: left;
+	margin-left: 4px;
+	border: #e7e7e7 solid 1px;
+}
+.Rtop{
+	height: 35px; 
+	padding-left: 8px;
+	padding-top: 8px;
+	color: #6c665a;
+	font-size: 16px;
+	border: #e7e7e7 solid 1px;
+	border-bottom: #e50c03 solid 2px;
+}
+.foot{
+	width: 740px;
+}
+.foot ul{
+	width: 700px;
+}
+.foot ul li{
+	width: 700px;
+}
+.page{
+	display: inline-block;
+	float: left;
+	width:620px;
+	height: 20px; 
+	text-align: center;
+	margin-top: 30px;
+}
+.page a,.page span{
+	text-decoration: none;
+	border: #e7e7e7 solid 1px;
+	padding:0px 10px;
+	color: #020202;
+	cursor: pointer;
+	font-size: 12px;
+}
